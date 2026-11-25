@@ -1,0 +1,9 @@
+{
+  "name": "folio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A private PDF library that lives in your browser.",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
