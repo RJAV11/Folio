@@ -2,15 +2,7 @@
 
 A quiet, private home for your PDFs. Folio is a single-page library that stores your documents in the browser — no account, no server, no upload.
 
-## Run it
 
-```bash
-npm start
-```
-
-Open <http://localhost:4173>. That's it — no install, no build step, no dependencies.
-
-You can also open `index.html` directly, but a local server is recommended: some browsers restrict IndexedDB on `file://`, and the PDF preview worker is happier over HTTP.
 
 ## What it does
 
